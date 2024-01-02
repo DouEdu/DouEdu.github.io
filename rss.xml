@@ -3,15 +3,15 @@
     <channel>
         <title>Dkx の Java小窝</title>
         <subtitle>别怕路长梦远</subtitle>
-        <icon>https://pigpigletsgo.github.io/images/favicon.ico</icon>
-        <link>https://pigpigletsgo.github.io</link>
+        <icon>https://douedu.github.io/images/favicon.ico</icon>
+        <link>https://douedu.github.io</link>
         <author>
           <name>Dkx</name>
         </author>
         <description>欢迎来我的博客空间</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 02 Jan 2024 20:33:25 +0800</pubDate>
-        <lastBuildDate>Tue, 02 Jan 2024 20:33:25 +0800</lastBuildDate>
+        <pubDate>Tue, 02 Jan 2024 20:34:47 +0800</pubDate>
+        <lastBuildDate>Tue, 02 Jan 2024 20:34:47 +0800</lastBuildDate>
         <category term="java" />
     </channel>
 </rss>
