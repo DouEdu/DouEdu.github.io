@@ -7,10 +7,10 @@
         <language>zh-CN</language>
         <pubDate>Sun, 31 Mar 2024 22:36:50 +0800</pubDate>
         <lastBuildDate>Sun, 31 Mar 2024 22:36:50 +0800</lastBuildDate>
-        <category>Java</category>
-        <category>Base64</category>
         <category>mysql</category>
         <category>sku</category>
+        <category>Java</category>
+        <category>Base64</category>
         <item>
             <guid isPermalink="true">https://douedu.github.io/2024/03/31/SKU%E5%92%8CSPU%E5%95%86%E5%93%81%E8%A1%A8%E8%AE%BE%E8%AE%A1/</guid>
             <title>SKU和SPU商品表设计</title>
