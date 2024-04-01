@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dsk的小屋 • All posts by \"mysql\" tag",
+    "description": "",
+    "home_page_url": "https://douedu.github.io",
+    "items": [
+        {
+            "id": "https://douedu.github.io/2024/03/31/SKU%E5%92%8CSPU%E5%95%86%E5%93%81%E8%A1%A8%E8%AE%BE%E8%AE%A1/",
+            "url": "https://douedu.github.io/2024/03/31/SKU%E5%92%8CSPU%E5%95%86%E5%93%81%E8%A1%A8%E8%AE%BE%E8%AE%A1/",
+            "title": "SKU和SPU商品表设计",
+            "date_published": "2024-03-31T14:36:50.000Z",
+            "content_html": "<h3 id=\"sku和spu商品表设计\"><a class=\"markdownIt-Anchor\" href=\"#sku和spu商品表设计\">#</a> SKU 和 SPU 商品表设计</h3>\n<h4 id=\"1简介\"><a class=\"markdownIt-Anchor\" href=\"#1简介\">#</a> <strong>1. 简介</strong></h4>\n<p>**SKU (Stock Keeping Unit)：**SKU 是一种唯一的编码或标识符，用于区分不同的产品变种或规格，通常与库存管理和销售跟踪有关</p>\n<p><strong>SKU 例子：<strong>假设你卖一款鞋子，鞋子有不同的颜色和尺码可以选择，每个不同的颜色和尺码组合都可以分配成一个独特的</strong> SKU</strong></p>\n<p><strong>例如：</strong></p>\n<p>​\t黑色，尺码 39：SKU001</p>\n<p>​\t白色，尺码 39：SKU002</p>\n<p>​\t红色，尺码 35：SKU003</p>\n<p>**SPU (Single Product Unit)：**SPU 是一种将不同的产品变种或规格汇总为一个单一实体或产品的标识符，通常用于商品分类和在线商店的产品列表中</p>\n<p>**SPU 例子：** 鞋子为例，无论你销售多少不同变种的鞋子，它们都被列为同一款产品的不同变种，方便顾客在在线商店中浏览和比较</p>\n",
+            "tags": [
+                "mysql",
+                "sku"
+            ]
+        }
+    ]
+}

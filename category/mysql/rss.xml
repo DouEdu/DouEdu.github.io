@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Dsk的小屋 • Posts by &#34;mysql&#34; category</title>
+        <link>https://douedu.github.io</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 31 Mar 2024 22:36:50 +0800</pubDate>
+        <lastBuildDate>Sun, 31 Mar 2024 22:36:50 +0800</lastBuildDate>
+        <category>mysql</category>
+        <category>sku</category>
+        <item>
+            <guid isPermalink="true">https://douedu.github.io/2024/03/31/SKU%E5%92%8CSPU%E5%95%86%E5%93%81%E8%A1%A8%E8%AE%BE%E8%AE%A1/</guid>
+            <title>SKU和SPU商品表设计</title>
+            <link>https://douedu.github.io/2024/03/31/SKU%E5%92%8CSPU%E5%95%86%E5%93%81%E8%A1%A8%E8%AE%BE%E8%AE%A1/</link>
+            <category>mysql</category>
+            <category>sku</category>
+            <pubDate>Sun, 31 Mar 2024 22:36:50 +0800</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;sku和spu商品表设计&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#sku和spu商品表设计&#34;&gt;#&lt;/a&gt; SKU 和 SPU 商品表设计&lt;/h3&gt;
+&lt;h4 id=&#34;1简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1简介&#34;&gt;#&lt;/a&gt; &lt;strong&gt;1. 简介&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;**SKU (Stock Keeping Unit)：**SKU 是一种唯一的编码或标识符，用于区分不同的产品变种或规格，通常与库存管理和销售跟踪有关&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;SKU 例子：&lt;strong&gt;假设你卖一款鞋子，鞋子有不同的颜色和尺码可以选择，每个不同的颜色和尺码组合都可以分配成一个独特的&lt;/strong&gt; SKU&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例如：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;​	黑色，尺码 39：SKU001&lt;/p&gt;
+&lt;p&gt;​	白色，尺码 39：SKU002&lt;/p&gt;
+&lt;p&gt;​	红色，尺码 35：SKU003&lt;/p&gt;
+&lt;p&gt;**SPU (Single Product Unit)：**SPU 是一种将不同的产品变种或规格汇总为一个单一实体或产品的标识符，通常用于商品分类和在线商店的产品列表中&lt;/p&gt;
+&lt;p&gt;**SPU 例子：** 鞋子为例，无论你销售多少不同变种的鞋子，它们都被列为同一款产品的不同变种，方便顾客在在线商店中浏览和比较&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
