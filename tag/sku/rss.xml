@@ -1,12 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Dsk的小屋 • Posts by &#34;sku&#34; tag</title>
+        <title>给给的博客 • Posts by &#34;sku&#34; tag</title>
         <link>https://douedu.github.io</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Sun, 31 Mar 2024 22:36:50 +0800</pubDate>
         <lastBuildDate>Sun, 31 Mar 2024 22:36:50 +0800</lastBuildDate>
+        <category>Java</category>
+        <category>Base64</category>
         <category>mysql</category>
         <category>sku</category>
         <item>

@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "给给的博客 • All posts by \"java\" tag",
+    "description": "",
+    "home_page_url": "https://douedu.github.io",
+    "items": [
+        {
+            "id": "https://douedu.github.io/2024/04/01/Base64/",
+            "url": "https://douedu.github.io/2024/04/01/Base64/",
+            "title": "Base64编码",
+            "date_published": "2024-04-01T12:24:20.000Z",
+            "content_html": "<h4 id=\"base64\"><a class=\"markdownIt-Anchor\" href=\"#base64\">#</a> Base64</h4>\n<p><strong>Base64</strong> 编码是我们程序开发中经常使用到的编码方法。它是一种基于用 64 个可打印字符来表示二进制数据的表示方法。它通常用作存储、传输一些二进制数据编码方法，也是 MIME（多用途互联网邮件扩展，主要用作电子邮件标准）中一种可打印字符表示二进制数据的常见编码方法。它其实只是定义用可打印字符传输内容一种方法，并不会产生新的字符集。严格来说 Base64 并不是一种加密 / 解密算法，而是一种编码方式。Base64 不生成密钥，通过 Base64 编码后的密文就可以直接 “翻译” 为明文，但是可以通过向明文中添加混淆字符来达到加密的效果</p>\n<p><img src=\"C:/Users/asus/AppData/Roaming/Typora/typora-user-images/image-20240301104025754.png\" alt=\"image-20240301104025754\"></p>\n",
+            "tags": [
+                "Java",
+                "Base64"
+            ]
+        }
+    ]
+}
